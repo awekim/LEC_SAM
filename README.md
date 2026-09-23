@@ -1,9 +1,7 @@
 # Statistical Analytic Methods
 ### Made by Keungoui Kim (Ph.D.)
 Remote repository for Computational Policy and Project Analysis
-
-- [Download course materials](https://drive.google.com/drive/folders/18z8lUSuItclF4oFgC2GlZAwTjg9EI5u_?usp=sharing)
-  
+ 
 #### Course Schedule
 - LEC 01. Introduction
 - LEC 02. Python Overview
