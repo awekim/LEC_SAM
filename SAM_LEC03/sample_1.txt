@@ -1,0 +1,4 @@
+name,age,major
+kim,23,management
+park,22,economics
+lee,22,engineering

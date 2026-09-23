@@ -1,0 +1,296 @@
+Content_ID,Platform,Monetization,Exclusive_YN
+K001,Naver Webtoon,AVOD,N
+K001,KakaoPage,AVOD,N
+K002,Steam,SVOD,Y
+K003,Netflix,SVOD,Y
+K004,Tving,SVOD,Y
+K005,Lezhin,Premium,Y
+K006,Lezhin,Freemium,Y
+K007,Naver Webtoon,Premium,N
+K007,Lezhin,Freemium,N
+K008,Nexon,Freemium,Y
+K009,Disney+,SVOD,Y
+K010,SBS,Freemium,Y
+K011,Lezhin,SVOD,N
+K011,KakaoPage,Premium,N
+K012,Google Play,Freemium,Y
+K013,Steam,SVOD,Y
+K014,KakaoPage,AVOD,N
+K014,Naver Webtoon,SVOD,N
+K015,KakaoPage,Freemium,Y
+K016,KakaoPage,AVOD,Y
+K017,Lezhin,AVOD,N
+K017,Naver Webtoon,AVOD,N
+K018,Disney+,Freemium,Y
+K019,Tving,SVOD,N
+K019,Wavve,AVOD,N
+K019,Disney+,SVOD,N
+K020,KakaoPage,SVOD,N
+K020,Lezhin,AVOD,N
+K021,Wavve,Premium,N
+K021,Netflix,Premium,N
+K021,Tving,AVOD,N
+K022,Naver Webtoon,Freemium,Y
+K023,KakaoPage,Freemium,N
+K023,Lezhin,AVOD,N
+K024,Naver Webtoon,SVOD,N
+K024,KakaoPage,SVOD,N
+K024,Lezhin,AVOD,N
+K025,Disney+,SVOD,N
+K025,Wavve,Premium,N
+K026,tvN,Freemium,Y
+K027,Naver Webtoon,Freemium,N
+K027,Lezhin,SVOD,N
+K027,KakaoPage,Freemium,N
+K028,Disney+,SVOD,Y
+K029,Wavve,SVOD,N
+K029,Disney+,Freemium,N
+K029,Netflix,AVOD,N
+K030,Naver Webtoon,SVOD,Y
+K031,Disney+,SVOD,Y
+K032,KakaoPage,Freemium,Y
+K033,Naver Webtoon,SVOD,Y
+K034,Kakao Games,SVOD,Y
+K035,Nexon,AVOD,N
+K035,Steam,Freemium,N
+K035,Kakao Games,Premium,N
+K036,Nexon,Premium,N
+K036,Google Play,Freemium,N
+K036,Kakao Games,Premium,N
+K037,KakaoPage,AVOD,N
+K037,Naver Webtoon,AVOD,N
+K038,Naver Webtoon,AVOD,Y
+K039,Netflix,SVOD,Y
+K040,Netflix,SVOD,N
+K040,Disney+,SVOD,N
+K041,Naver Webtoon,Freemium,N
+K041,Lezhin,Premium,N
+K042,Tving,Premium,Y
+K043,KakaoPage,Premium,Y
+K044,Steam,Premium,Y
+K045,KakaoPage,Premium,Y
+K046,Netflix,SVOD,N
+K046,Wavve,SVOD,N
+K047,KakaoPage,SVOD,Y
+K048,Tving,Premium,Y
+K049,Tving,Freemium,Y
+K050,Naver Webtoon,Premium,Y
+K051,Steam,SVOD,N
+K051,Kakao Games,SVOD,N
+K052,Tving,Premium,N
+K052,Netflix,Premium,N
+K052,tvN,AVOD,N
+K053,Steam,Premium,N
+K053,Kakao Games,SVOD,N
+K054,Google Play,Premium,N
+K054,Nexon,Premium,N
+K054,Kakao Games,AVOD,N
+K055,Tving,SVOD,Y
+K056,Steam,Freemium,Y
+K057,Lezhin,Premium,Y
+K058,Lezhin,AVOD,Y
+K059,Lezhin,SVOD,Y
+K060,Naver Webtoon,AVOD,N
+K060,Lezhin,Premium,N
+K061,Lezhin,AVOD,Y
+K062,Naver Webtoon,SVOD,Y
+K063,Google Play,Freemium,Y
+K064,Lezhin,Freemium,Y
+K065,KakaoPage,AVOD,Y
+K066,Wavve,Freemium,N
+K066,Tving,SVOD,N
+K067,Lezhin,SVOD,Y
+K068,Nexon,Freemium,Y
+K069,KakaoPage,SVOD,Y
+K070,Google Play,AVOD,N
+K070,Nexon,Premium,N
+K071,SBS,SVOD,N
+K071,tvN,Freemium,N
+K072,Naver Webtoon,SVOD,N
+K072,Lezhin,SVOD,N
+K072,KakaoPage,AVOD,N
+K073,Lezhin,AVOD,Y
+K074,Nexon,Freemium,N
+K074,Google Play,Premium,N
+K075,Netflix,SVOD,Y
+K076,SBS,SVOD,N
+K076,Netflix,Freemium,N
+K077,SBS,Premium,N
+K077,Netflix,Premium,N
+K078,Naver Webtoon,SVOD,Y
+K079,Lezhin,Freemium,N
+K079,Naver Webtoon,AVOD,N
+K079,KakaoPage,Premium,N
+K080,KakaoPage,Freemium,Y
+K081,Steam,AVOD,N
+K081,Nexon,AVOD,N
+K082,Wavve,Premium,N
+K082,Disney+,AVOD,N
+K083,Naver Webtoon,Premium,N
+K083,Lezhin,SVOD,N
+K083,KakaoPage,AVOD,N
+K084,KakaoPage,AVOD,N
+K084,Lezhin,Freemium,N
+K085,Lezhin,SVOD,Y
+K086,Naver Webtoon,Premium,Y
+K087,tvN,Freemium,Y
+K088,Tving,AVOD,Y
+K089,Nexon,Premium,Y
+K090,Netflix,Freemium,Y
+K091,Lezhin,Premium,Y
+K092,SBS,SVOD,N
+K092,Netflix,Freemium,N
+K093,SBS,SVOD,Y
+K094,Disney+,Freemium,Y
+K095,SBS,SVOD,N
+K095,Tving,Premium,N
+K096,Tving,SVOD,N
+K096,Disney+,Premium,N
+K097,Tving,Freemium,Y
+K098,Wavve,Freemium,Y
+K099,Naver Webtoon,Freemium,N
+K099,KakaoPage,Premium,N
+K100,Lezhin,Freemium,Y
+K101,Naver Webtoon,Premium,Y
+K102,Disney+,AVOD,N
+K102,Wavve,Freemium,N
+K103,Naver Webtoon,Freemium,Y
+K104,Disney+,Freemium,Y
+K105,Kakao Games,AVOD,Y
+K106,Lezhin,AVOD,Y
+K107,Wavve,Freemium,N
+K107,Disney+,SVOD,N
+K108,Tving,Freemium,N
+K108,SBS,AVOD,N
+K109,Naver Webtoon,SVOD,N
+K109,Lezhin,AVOD,N
+K110,Lezhin,Premium,N
+K110,Naver Webtoon,AVOD,N
+K110,KakaoPage,Premium,N
+K111,Naver Webtoon,AVOD,Y
+K112,Naver Webtoon,Premium,N
+K112,Lezhin,AVOD,N
+K113,Kakao Games,SVOD,Y
+K114,Steam,Premium,Y
+K115,Disney+,Freemium,Y
+K116,Kakao Games,Premium,N
+K116,Google Play,AVOD,N
+K116,Nexon,Premium,N
+K117,Nexon,Freemium,Y
+K118,Lezhin,AVOD,N
+K118,KakaoPage,Freemium,N
+K119,Google Play,AVOD,Y
+K120,Wavve,SVOD,Y
+K121,Nexon,Premium,Y
+K122,Nexon,Premium,N
+K122,Steam,Premium,N
+K123,KakaoPage,Premium,Y
+K124,KakaoPage,Premium,Y
+K125,Lezhin,Premium,N
+K125,Naver Webtoon,SVOD,N
+K125,KakaoPage,Freemium,N
+K126,Disney+,Premium,Y
+K127,Nexon,Premium,Y
+K128,Kakao Games,Premium,Y
+K129,KakaoPage,Premium,Y
+K130,Disney+,SVOD,N
+K130,Netflix,Premium,N
+K131,Netflix,SVOD,Y
+K132,Naver Webtoon,AVOD,N
+K132,KakaoPage,SVOD,N
+K133,KakaoPage,AVOD,Y
+K134,KakaoPage,Premium,Y
+K135,Kakao Games,Freemium,Y
+K136,KakaoPage,SVOD,N
+K136,Naver Webtoon,Freemium,N
+K137,Netflix,SVOD,Y
+K138,Tving,SVOD,N
+K138,Netflix,AVOD,N
+K139,KakaoPage,SVOD,Y
+K140,Nexon,Premium,Y
+K141,Google Play,SVOD,N
+K141,Steam,AVOD,N
+K142,Naver Webtoon,Premium,N
+K142,Lezhin,Premium,N
+K142,KakaoPage,AVOD,N
+K143,Tving,SVOD,Y
+K144,KakaoPage,SVOD,N
+K144,Naver Webtoon,Freemium,N
+K145,Lezhin,Freemium,Y
+K146,Lezhin,Freemium,Y
+K147,Disney+,Premium,Y
+K148,Wavve,Premium,Y
+K149,KakaoPage,Freemium,N
+K149,Naver Webtoon,Premium,N
+K150,Lezhin,Freemium,Y
+K151,Nexon,SVOD,Y
+K152,KakaoPage,AVOD,Y
+K153,Lezhin,Freemium,N
+K153,KakaoPage,SVOD,N
+K154,Wavve,AVOD,Y
+K155,Google Play,Freemium,Y
+K156,Lezhin,Freemium,Y
+K157,Tving,SVOD,Y
+K158,tvN,Premium,Y
+K159,Naver Webtoon,Premium,Y
+K160,tvN,SVOD,N
+K160,Tving,SVOD,N
+K161,KakaoPage,AVOD,Y
+K162,Wavve,Premium,Y
+K163,Wavve,Premium,Y
+K164,Wavve,Freemium,N
+K164,Tving,Freemium,N
+K164,Disney+,Freemium,N
+K165,Lezhin,AVOD,Y
+K166,Nexon,AVOD,Y
+K167,KakaoPage,Freemium,Y
+K168,Lezhin,SVOD,N
+K168,KakaoPage,AVOD,N
+K169,KakaoPage,AVOD,Y
+K170,Tving,Freemium,Y
+K171,Netflix,Freemium,Y
+K172,Naver Webtoon,SVOD,N
+K172,KakaoPage,SVOD,N
+K173,Disney+,Premium,Y
+K174,Naver Webtoon,SVOD,Y
+K175,Disney+,SVOD,Y
+K176,KakaoPage,SVOD,N
+K176,Lezhin,SVOD,N
+K177,Wavve,SVOD,Y
+K178,Naver Webtoon,Premium,N
+K178,KakaoPage,Premium,N
+K178,Lezhin,Premium,N
+K179,Kakao Games,Freemium,Y
+K180,Naver Webtoon,SVOD,Y
+K181,Naver Webtoon,SVOD,N
+K181,Lezhin,AVOD,N
+K181,KakaoPage,AVOD,N
+K182,Naver Webtoon,AVOD,Y
+K183,Kakao Games,Premium,Y
+K184,Nexon,Freemium,Y
+K185,Lezhin,SVOD,N
+K185,KakaoPage,AVOD,N
+K186,Tving,AVOD,N
+K186,Disney+,AVOD,N
+K186,Netflix,Freemium,N
+K187,Steam,AVOD,N
+K187,Kakao Games,Freemium,N
+K188,Wavve,Premium,Y
+K189,Wavve,Premium,Y
+K190,Lezhin,SVOD,N
+K190,KakaoPage,SVOD,N
+K190,Naver Webtoon,Premium,N
+K191,Lezhin,SVOD,N
+K191,KakaoPage,SVOD,N
+K192,Steam,Freemium,Y
+K193,Nexon,Premium,Y
+K194,Disney+,Freemium,Y
+K195,Lezhin,Premium,Y
+K196,KakaoPage,Premium,N
+K196,Naver Webtoon,Freemium,N
+K197,SBS,SVOD,Y
+K198,Google Play,Premium,N
+K198,Nexon,Freemium,N
+K199,Kakao Games,SVOD,N
+K199,Google Play,Premium,N
+K200,SBS,Freemium,Y

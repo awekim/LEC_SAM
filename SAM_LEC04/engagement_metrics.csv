@@ -1,0 +1,296 @@
+Content_ID,Platform,MAU_Millions,Revenue_USD_M,User_Rating
+K001,Naver Webtoon,2.79,39.84,4.1
+K001,KakaoPage,2.33,53.97,2.8
+K002,Steam,37.42,27.2,2.7
+K003,Netflix,12.58,22.0,4.3
+K004,Tving,,,
+K005,Lezhin,6.99,32.14,2.3
+K006,Lezhin,9.72,33.83,3.4
+K007,Naver Webtoon,,,
+K007,Lezhin,3.48,25.42,3.8
+K008,Nexon,1.29,50.41,2.1
+K009,Disney+,18.94,34.97,4.6
+K010,SBS,1.07,53.75,2.5
+K011,Lezhin,,,
+K011,KakaoPage,5.47,1.34,3.8
+K012,Google Play,2.46,140.86,3.7
+K013,Steam,21.89,30.65,3.6
+K014,KakaoPage,1.3,141.91,3.2
+K014,Naver Webtoon,5.94,3.69,3.0
+K015,KakaoPage,,,
+K016,KakaoPage,2.4,93.18,2.1
+K017,Lezhin,2.49,6.29,4.1
+K017,Naver Webtoon,10.48,49.57,4.6
+K018,Disney+,10.1,16.57,2.5
+K019,Tving,,,
+K019,Wavve,8.41,69.44,4.4
+K019,Disney+,4.39,23.26,4.3
+K020,KakaoPage,5.04,20.84,4.8
+K020,Lezhin,3.6,69.49,4.3
+K021,Wavve,13.45,5.44,4.7
+K021,Netflix,16.53,19.29,4.7
+K021,Tving,4.58,24.65,2.0
+K022,Naver Webtoon,6.2,150.4,3.7
+K023,KakaoPage,3.93,49.96,3.3
+K023,Lezhin,1.64,55.82,4.3
+K024,Naver Webtoon,1.33,78.41,4.4
+K024,KakaoPage,4.43,2.96,3.6
+K024,Lezhin,1.83,29.13,4.7
+K025,Disney+,1.96,7.72,4.3
+K025,Wavve,3.25,48.15,2.3
+K026,tvN,5.73,3.78,4.5
+K027,Naver Webtoon,2.7,61.25,2.2
+K027,Lezhin,1.05,83.78,4.8
+K027,KakaoPage,1.1,213.44,4.3
+K028,Disney+,,,
+K029,Wavve,2.18,75.06,3.7
+K029,Disney+,3.62,27.6,4.7
+K029,Netflix,4.4,0.57,3.4
+K030,Naver Webtoon,1.64,2.9,2.4
+K031,Disney+,6.19,68.53,3.8
+K032,KakaoPage,,,
+K033,Naver Webtoon,1.96,163.74,3.1
+K034,Kakao Games,8.94,12.65,4.9
+K035,Nexon,3.0,0.61,4.9
+K035,Steam,5.61,3.83,3.7
+K035,Kakao Games,4.54,174.18,3.6
+K036,Nexon,19.13,30.31,3.9
+K036,Google Play,11.7,43.89,4.7
+K036,Kakao Games,40.04,16.24,2.6
+K037,KakaoPage,2.0,31.15,3.1
+K037,Naver Webtoon,2.1,183.25,5.0
+K038,Naver Webtoon,5.21,59.89,3.6
+K039,Netflix,11.59,57.72,2.5
+K040,Netflix,2.52,120.92,4.5
+K040,Disney+,1.2,134.95,4.6
+K041,Naver Webtoon,27.98,2.31,2.1
+K041,Lezhin,14.58,218.21,2.5
+K042,Tving,2.8,45.09,3.1
+K043,KakaoPage,4.0,26.79,2.8
+K044,Steam,15.45,2.9,4.6
+K045,KakaoPage,4.51,73.26,4.8
+K046,Netflix,4.7,94.74,2.7
+K046,Wavve,1.54,154.01,3.8
+K047,KakaoPage,3.89,12.98,4.0
+K048,Tving,0.97,6.03,4.0
+K049,Tving,16.08,36.73,4.3
+K050,Naver Webtoon,14.57,40.14,3.7
+K051,Steam,4.79,104.64,3.2
+K051,Kakao Games,8.55,60.88,2.6
+K052,Tving,17.61,7.33,2.0
+K052,Netflix,12.92,24.9,3.3
+K052,tvN,0.77,117.25,3.0
+K053,Steam,,,
+K053,Kakao Games,20.13,25.25,3.9
+K054,Google Play,,,
+K054,Nexon,4.83,99.16,4.8
+K054,Kakao Games,0.82,30.73,4.9
+K055,Tving,4.24,33.92,3.0
+K056,Steam,,,
+K057,Lezhin,1.22,3.94,2.4
+K058,Lezhin,8.76,6.85,2.5
+K059,Lezhin,6.47,10.04,3.0
+K060,Naver Webtoon,1.75,113.55,3.4
+K060,Lezhin,,,
+K061,Lezhin,1.67,10.68,2.1
+K062,Naver Webtoon,7.42,9.25,2.8
+K063,Google Play,4.03,11.55,3.1
+K064,Lezhin,1.59,35.0,4.1
+K065,KakaoPage,2.23,103.41,4.8
+K066,Wavve,5.55,3.15,2.8
+K066,Tving,8.28,10.2,2.6
+K067,Lezhin,9.56,23.14,3.5
+K068,Nexon,0.98,31.04,4.2
+K069,KakaoPage,17.58,1.87,2.8
+K070,Google Play,7.98,35.84,3.6
+K070,Nexon,6.12,5.67,3.3
+K071,SBS,0.9,15.68,3.1
+K071,tvN,,,
+K072,Naver Webtoon,5.49,1.01,3.0
+K072,Lezhin,2.35,6.38,4.7
+K072,KakaoPage,1.52,45.02,4.0
+K073,Lezhin,4.45,4.55,3.6
+K074,Nexon,19.69,44.2,4.2
+K074,Google Play,1.59,16.69,3.1
+K075,Netflix,,,
+K076,SBS,3.7,51.91,3.7
+K076,Netflix,,,
+K077,SBS,1.11,5.37,2.5
+K077,Netflix,7.87,14.12,2.5
+K078,Naver Webtoon,2.48,9.52,4.7
+K079,Lezhin,1.89,4.18,3.6
+K079,Naver Webtoon,5.87,5.94,3.2
+K079,KakaoPage,4.26,174.45,4.6
+K080,KakaoPage,2.52,9.37,4.0
+K081,Steam,9.54,132.52,3.7
+K081,Nexon,0.84,73.37,2.6
+K082,Wavve,7.72,19.55,3.3
+K082,Disney+,0.88,6.1,3.8
+K083,Naver Webtoon,4.7,17.03,3.7
+K083,Lezhin,4.2,38.03,2.2
+K083,KakaoPage,1.34,20.52,2.4
+K084,KakaoPage,12.26,14.69,4.0
+K084,Lezhin,2.52,71.4,3.8
+K085,Lezhin,0.38,21.45,4.8
+K086,Naver Webtoon,2.02,88.78,4.9
+K087,tvN,6.5,139.31,2.5
+K088,Tving,2.45,3.44,4.2
+K089,Nexon,,,
+K090,Netflix,14.41,7.53,4.4
+K091,Lezhin,5.78,11.26,2.5
+K092,SBS,6.65,54.71,3.6
+K092,Netflix,2.94,22.22,4.6
+K093,SBS,14.9,28.91,3.1
+K094,Disney+,2.98,31.06,2.9
+K095,SBS,4.56,13.21,4.7
+K095,Tving,23.96,24.22,3.6
+K096,Tving,5.67,6.22,4.8
+K096,Disney+,9.69,49.4,3.0
+K097,Tving,6.29,48.39,3.6
+K098,Wavve,2.96,112.17,4.4
+K099,Naver Webtoon,2.83,14.28,4.2
+K099,KakaoPage,1.92,1.71,3.7
+K100,Lezhin,,,
+K101,Naver Webtoon,7.24,20.93,4.5
+K102,Disney+,6.26,5.86,4.5
+K102,Wavve,,,
+K103,Naver Webtoon,3.42,79.8,2.4
+K104,Disney+,1.68,13.02,4.2
+K105,Kakao Games,10.69,59.2,3.6
+K106,Lezhin,17.39,14.5,3.0
+K107,Wavve,0.76,31.0,4.8
+K107,Disney+,20.01,8.32,3.8
+K108,Tving,51.72,0.91,4.6
+K108,SBS,5.1,134.5,3.7
+K109,Naver Webtoon,7.25,61.42,2.5
+K109,Lezhin,5.61,42.94,3.8
+K110,Lezhin,22.05,136.18,4.8
+K110,Naver Webtoon,2.69,29.97,2.3
+K110,KakaoPage,4.74,44.74,3.2
+K111,Naver Webtoon,13.39,2.82,3.0
+K112,Naver Webtoon,1.63,38.54,4.8
+K112,Lezhin,0.86,21.26,3.0
+K113,Kakao Games,3.2,12.72,3.4
+K114,Steam,,,
+K115,Disney+,23.78,7.59,2.5
+K116,Kakao Games,,,
+K116,Google Play,0.3,123.16,3.1
+K116,Nexon,,,
+K117,Nexon,4.24,43.45,3.9
+K118,Lezhin,3.43,4.46,5.0
+K118,KakaoPage,1.48,34.88,3.8
+K119,Google Play,4.54,11.78,4.7
+K120,Wavve,4.37,11.48,2.6
+K121,Nexon,4.34,41.6,2.2
+K122,Nexon,2.6,74.7,3.4
+K122,Steam,0.32,25.6,3.7
+K123,KakaoPage,13.35,8.44,2.5
+K124,KakaoPage,1.1,51.64,3.2
+K125,Lezhin,2.06,1.29,2.5
+K125,Naver Webtoon,11.42,1.37,2.7
+K125,KakaoPage,15.98,13.14,4.0
+K126,Disney+,2.65,52.88,2.7
+K127,Nexon,7.31,5.24,2.7
+K128,Kakao Games,9.12,88.66,3.2
+K129,KakaoPage,6.99,55.14,2.6
+K130,Disney+,8.11,0.65,2.3
+K130,Netflix,3.29,11.65,2.1
+K131,Netflix,,,
+K132,Naver Webtoon,6.21,27.36,4.7
+K132,KakaoPage,1.28,85.03,3.0
+K133,KakaoPage,2.22,44.62,2.8
+K134,KakaoPage,1.1,48.93,3.2
+K135,Kakao Games,0.56,17.44,4.8
+K136,KakaoPage,24.45,72.11,2.4
+K136,Naver Webtoon,4.32,112.48,4.4
+K137,Netflix,,,
+K138,Tving,13.51,27.69,2.1
+K138,Netflix,6.1,50.18,2.8
+K139,KakaoPage,0.81,7.5,4.5
+K140,Nexon,4.57,9.42,2.8
+K141,Google Play,6.34,0.93,4.7
+K141,Steam,5.45,16.01,3.7
+K142,Naver Webtoon,1.68,52.69,4.5
+K142,Lezhin,5.79,45.88,4.0
+K142,KakaoPage,11.97,9.64,4.7
+K143,Tving,0.71,36.59,2.1
+K144,KakaoPage,1.25,9.09,4.2
+K144,Naver Webtoon,5.4,14.08,3.2
+K145,Lezhin,2.11,17.03,3.1
+K146,Lezhin,1.69,41.78,3.4
+K147,Disney+,12.85,54.48,4.8
+K148,Wavve,1.9,1.58,2.8
+K149,KakaoPage,9.03,45.2,2.2
+K149,Naver Webtoon,57.98,20.34,4.3
+K150,Lezhin,4.07,5.64,2.2
+K151,Nexon,4.33,58.3,3.3
+K152,KakaoPage,26.33,14.14,4.5
+K153,Lezhin,,,
+K153,KakaoPage,,,
+K154,Wavve,8.44,15.88,3.8
+K155,Google Play,11.85,22.39,2.3
+K156,Lezhin,4.16,10.24,3.6
+K157,Tving,8.34,103.16,4.2
+K158,tvN,7.84,58.93,4.5
+K159,Naver Webtoon,13.21,14.36,3.5
+K160,tvN,6.89,9.96,3.7
+K160,Tving,5.52,123.54,2.1
+K161,KakaoPage,1.52,129.11,4.9
+K162,Wavve,12.85,144.36,3.4
+K163,Wavve,4.61,19.22,4.5
+K164,Wavve,4.62,1.89,3.8
+K164,Tving,2.9,4.0,4.1
+K164,Disney+,3.29,20.77,4.2
+K165,Lezhin,3.72,38.77,4.4
+K166,Nexon,2.89,19.19,3.9
+K167,KakaoPage,5.85,13.26,2.1
+K168,Lezhin,10.91,102.05,2.1
+K168,KakaoPage,4.87,139.9,4.4
+K169,KakaoPage,13.01,309.11,3.1
+K170,Tving,2.67,32.68,3.9
+K171,Netflix,18.34,103.45,5.0
+K172,Naver Webtoon,2.87,27.35,4.2
+K172,KakaoPage,19.17,13.64,2.3
+K173,Disney+,1.17,17.57,2.7
+K174,Naver Webtoon,1.79,2.15,2.1
+K175,Disney+,,,
+K176,KakaoPage,4.33,24.25,4.0
+K176,Lezhin,5.66,12.31,4.8
+K177,Wavve,11.99,144.78,3.4
+K178,Naver Webtoon,3.62,47.52,2.5
+K178,KakaoPage,,,
+K178,Lezhin,5.29,46.79,3.5
+K179,Kakao Games,7.33,13.11,2.5
+K180,Naver Webtoon,2.4,75.61,3.1
+K181,Naver Webtoon,,,
+K181,Lezhin,2.57,2.98,4.9
+K181,KakaoPage,18.55,59.54,2.5
+K182,Naver Webtoon,2.53,84.6,2.7
+K183,Kakao Games,5.49,44.94,3.7
+K184,Nexon,0.98,4.8,4.6
+K185,Lezhin,2.43,109.8,4.9
+K185,KakaoPage,3.04,99.07,4.4
+K186,Tving,8.66,4.55,3.2
+K186,Disney+,33.46,23.32,2.8
+K186,Netflix,4.34,4.23,2.7
+K187,Steam,26.97,57.48,2.2
+K187,Kakao Games,4.41,32.75,3.8
+K188,Wavve,14.71,87.06,3.0
+K189,Wavve,8.86,15.53,4.6
+K190,Lezhin,28.41,79.83,4.0
+K190,KakaoPage,10.18,59.78,4.0
+K190,Naver Webtoon,7.44,48.2,4.3
+K191,Lezhin,3.79,20.41,4.2
+K191,KakaoPage,5.19,8.76,4.5
+K192,Steam,4.61,0.32,2.9
+K193,Nexon,16.09,47.98,4.9
+K194,Disney+,1.15,50.26,3.6
+K195,Lezhin,9.45,75.67,2.3
+K196,KakaoPage,,,
+K196,Naver Webtoon,5.75,164.83,3.0
+K197,SBS,21.7,50.07,4.8
+K198,Google Play,2.87,17.9,4.1
+K198,Nexon,5.44,3.49,3.7
+K199,Kakao Games,,,
+K199,Google Play,14.81,2.34,4.6
+K200,SBS,0.98,181.51,4.9
