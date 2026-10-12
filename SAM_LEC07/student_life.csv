@@ -1,0 +1,426 @@
+student_id,major,year,study_hours,sleep_hours,commute_min,club,gpa,satisfaction
+S1001,Social Science,1,18.8,6.1,58.0,No,3.52,8.2
+S1002,Engineering,2,5.5,7.0,27.0,No,2.87,6.3
+S1003,Data Science,1,9.4,6.7,51.0,Yes,3.18,6.7
+S1004,Social Science,4,21.0,5.8,13.0,Yes,3.5,5.4
+S1005,Social Science,3,16.2,6.4,11.0,No,3.63,7.1
+S1006,Humanities,3,22.7,5.7,14.0,No,3.59,4.7
+S1007,Engineering,4,16.6,7.0,43.0,Yes,3.58,6.8
+S1008,Data Science,3,28.6,6.2,15.0,Yes,3.98,5.6
+S1009,Economics,1,15.9,7.1,49.0,Yes,4.01,7.1
+S1010,Economics,3,18.8,7.1,40.0,Yes,2.8,5.8
+S1011,Data Science,2,17.2,5.1,22.0,Yes,3.93,7.6
+S1012,Economics,1,24.8,6.8,31.0,No,4.19,6.5
+S1013,Engineering,4,21.9,6.1,21.0,No,3.28,6.9
+S1014,Humanities ,1,11.3,7.2,19.0,No,2.62,6.8
+S1015,Social Science,2,11.2,6.3,7.0,Yes,2.63,6.1
+S1016,Business,1,22.8,7.9,44.0,No,3.4,6.3
+S1017,Data Science,4,18.2,6.4,45.0,Yes,3.12,7.5
+S1018,Engineering,3,31.2,5.3,16.0,No,4.23,5.0
+S1019,Social Science,3,20.1,6.9,40.0,No,3.0,6.0
+S1020,Engineering,4,24.6,7.1,19.0,No ,3.0,5.0
+S1021,Social Science,2,25.6,6.9,34.0,Yes,3.77,8.7
+S1022,Social Science,2,20.2,6.1,6.0,No,3.13,5.7
+S1023,Business,1,14.6,6.3,34.0,No,2.77,5.9
+S1024,Social Science,1,14.7,5.3,32.0,Yes,3.9,4.7
+S1025,Humanities,2,14.1,6.8,32.0,No,3.87,6.1
+S1026,Business,4,17.5,6.5,11.0,No,2.95,7.0
+S1027,Humanities,2,13.5,7.1,47.0,No,3.34,6.6
+S1028,Engineering,4,22.7,5.6,44.0,No,3.64,6.3
+S1029,Data Science,1,30.5,6.3,3.0,No,4.3,6.6
+S1030,Humanities,1,19.2,6.2,43.0,No,3.31,4.6
+S1031,Economics,1,10.8,6.7,34.0,No,3.09,8.5
+S1032,Data Science,3,14.8,6.7,20.0,No,3.64,5.7
+S1033,Economics,1,18.1,7.6,32.0,Yes,3.49,8.3
+S1034,Economics,1,2.4,6.5,19.0,Yes,2.38,6.6
+S1035,Business,4,18.5,6.4,68.0,No,3.0,7.0
+S1036,Data Science,2,10.5,6.7,56.0,Yes,3.24,5.9
+S1037,Business,2,4.1,7.1,48.0,No,3.02,6.9
+S1038,Economics,3,26.9,6.3,31.0,Yes,4.15,4.9
+S1039,Social Science,3,23.4,5.5,52.0,No,3.91,5.1
+S1040,Humanities,2,23.3,7.6,55.0,No,3.33,8.3
+S1041,Economics,3,13.2,6.0,6.0,Yes,3.3,6.9
+S1042,Economics,4,25.0,6.4,39.0,Yes,3.8,5.7
+S1043,Business,1,9.5,7.2,45.0,No,2.55,4.6
+S1044,Economics,2,16.3,6.8,55.0,No,3.66,5.7
+S1045,Social Science,4,27.7,5.6,74.0,Yes,4.03,8.5
+S1046,Business,2,10.8,6.6,,No,2.9,5.5
+S1047,Engineering,3,11.8,5.9,25.0,No,3.16,3.9
+S1048,Business,2,12.1,6.8,21.0,Yes,3.33,6.1
+S1049,Social Science,1,19.5,6.8,11.0,No,3.45,6.7
+S1050,Business,3,12.2,8.2,31.0,Yes,2.71,6.1
+S1051,Engineering,3,20.6,6.2,51.0,Yes,3.83,8.4
+S1052,Humanities,4,20.0,7.0,17.0,No,3.8,6.1
+S1053,Social Science,4,5.5,7.8,58.0,No,2.62,6.5
+S1054,Humanities,4,17.8,6.9,63.0,No,3.68,5.3
+S1055,Engineering,3,16.5,5.1,107.0,Yes,3.26,6.4
+S1056,Humanities,1,13.5,7.3,40.0,No,3.29,4.8
+S1057,Economics,3,13.6,5.6,111.0,Yes,3.12,5.2
+S1058,Business,2,150.0,6.0,35.0,Yes,3.16,6.2
+S1059,Business,1,19.2,5.9,21.0,Yes,3.3,6.9
+S1060,Engineering,1,2.7,6.3,73.0,Yes,2.43,6.1
+S1061,Engineering,1,5.9,8.0,31.0,Yes,3.06,8.8
+S1062,Humanities,2,20.7,5.8,23.0,No,3.59,7.5
+S1063,Humanities,2,12.0,6.2,6.0,No,2.88,6.7
+S1064,Engineering,4,17.5,6.0,29.0,No,3.62,5.0
+S1065,Data Science,1,4.5,7.4,27.0,No,3.02,6.1
+S1066,Engineering,1,17.2,6.3,24.0,Yes,4.14,8.4
+S1067,Business,1,16.5,6.1,21.0,No,3.4,8.5
+S1068,Data Science,4,19.0,5.5,58.0,No,3.65,6.2
+S1069,Social Science,2,22.3,6.8,48.0,No,4.3,6.4
+S1070,Humanities,2,8.2,7.9,61.0,No,3.25,6.7
+S1071,Economics,4,15.8,6.3,46.0,No,3.24,6.0
+S1072,Data Science,2,15.8,6.5,28.0,No,3.73,5.2
+S1073,Social Science,2,14.7,6.1,41.0,Yes,3.64,7.6
+S1074,Social Science,4,19.6,6.5,32.0,Yes,3.69,6.4
+S1075,Business,3,15.6,7.0,33.0,NO,2.98,7.6
+S1076,Data Science,4,25.5,6.2,53.0,Yes,3.99,7.5
+S1077,Business,2,19.9,6.5,51.0,No,3.83,6.4
+S1078,Engineering,4,20.7,6.3,22.0,Yes,2.97,5.1
+S1079,Humanities,1,5.9,7.8,27.0,No,3.04,7.7
+S1080,Social Science,1,18.3,6.8,31.0,No,3.32,8.0
+S1081,Business,2,21.5,5.7,63.0,No,3.14,4.8
+S1082,Business,1,19.0,6.9,25.0,No,3.74,8.8
+S1083,Engineering,3,24.7,6.2,37.0,No,4.0,3.9
+S1084,Social Science,3,24.7,7.4,20.0,No,3.94,7.3
+S1085,Humanities,1,8.5,7.6,12.0,Yes,3.41,8.3
+S1086,Data Science,4,24.7,5.7,37.0,Yes,3.97,8.2
+S1087,Economics,2,9.6,6.2,26.0,No,2.88,6.8
+S1088,Business,3,10.4,8.7,74.0,No,4.01,4.8
+S1089,Data Science,2,21.9,5.8,57.0,Yes,3.74,6.3
+S1090,Economics,3,22.0,7.2,31.0,No,3.79,6.0
+S1091,Data Science,1,8.2,7.0,85.0,No,3.32,6.6
+S1092,Business,1,12.1,6.8,23.0,No,3.42,4.8
+S1093,Data Science,3,18.2,7.1,9.0,Yes,3.63,8.8
+S1094,Social Science,2,24.1,6.6,8.0,No,3.85,5.2
+S1095,Economics,2,8.1,6.8,40.0,Yes,3.14,9.0
+S1096,Data Science,4,24.9,6.6,36.0,No,3.74,5.8
+S1097,Engineering,4,23.1,6.4,41.0,Yes,3.55,6.1
+S1098,Economics,1,10.6,7.0,65.0,Yes,3.23,7.9
+S1099,Business,1,12.8,8.4,10.0,No,3.67,7.2
+S1100,Engineering,4,22.7,6.7,42.0,No,3.24,4.4
+S1101,Economics,2,21.3,5.7,35.0,Yes,3.67,7.5
+S1102,Social Science,3,21.9,5.0,39.0,Yes,3.47,6.7
+S1103,Business,3,8.1,6.7,16.0,Yes,2.38,7.8
+S1104,Business,2,6.9,7.7,34.0,Yes,3.04,
+S1105,Business,4,12.5,6.7,53.0,No,3.07,
+S1106,Business,4,15.8,6.3,40.0,No,2.95,5.6
+S1107,Business,4,31.5,6.3,21.0,No,3.82,7.0
+S1108,Social Science,3,17.4,7.4,7.0,Yes,3.5,7.2
+S1109,Humanities,1,10.6,7.6,51.0,Yes,3.07,6.4
+S1110,Data Science,1,11.0,8.6,56.0,Yes,2.76,8.1
+S1111,Data Science,2,10.1,7.1,38.0,Yes,2.93,5.7
+S1112,Social Science,1,6.9,6.3,19.0,No,3.47,4.2
+S1113,Humanities,4,23.5,5.0,81.0,Yes,3.35,6.5
+S1114,Business ,2,13.3,6.8,51.0,Yes,3.01,6.1
+S1115,Data Science,3,16.0,6.7,22.0,Yes,3.34,6.8
+S1116,Business,2,16.6,7.2,22.0,No,3.09,5.4
+S1117,Engineering,1,12.6,7.3,19.0,No,3.01,6.0
+S1118,Humanities,4,27.6,6.3,34.0,Yes,3.83,7.6
+S1119,Business,2,12.1,7.2,47.0,Yes,3.48,5.6
+S1120,data science,4,25.3,5.8,27.0,No,3.7,5.9
+S1121,Business,1,19.7,6.7,13.0,No,3.44,8.4
+S1122,Business,2,17.9,5.3,82.0,Yes,3.52,8.3
+S1123,Economics,4,20.5,6.6,19.0,Yes,3.44,8.0
+S1124,Data Science,1,13.3,5.6,26.0,No,,6.5
+S1125,Business,3,16.8,5.3,48.0,No,2.95,6.7
+S1126,Engineering,3,25.7,4.2,21.0,No,3.88,4.6
+S1127,Business,4,13.3,6.8,35.0,No,2.58,4.7
+S1128,Social Science,4,22.5,4.5,40.0,Yes,3.7,5.8
+S1129,Social Science,1,2.5,8.1,10.0,Yes,2.89,8.2
+S1130,Engineering,1,21.2,6.7,34.0,No,3.54,7.5
+S1131,Social Science,1,14.2,6.3,31.0,No,3.56,6.4
+S1132,Business,2,22.5,6.4,32.0,No,3.91,7.2
+S1133,Business,1,16.3,6.4,17.0,Yes,3.4,6.2
+S1134,business,4,10.3,6.6,20.0,No,3.27,5.6
+S1135,Economics,1,9.1,6.9,52.0,No,3.08,7.7
+S1136,Engineering,3,17.6,7.1,21.0,Yes,3.6,6.5
+S1137,Social Science,1,13.8,7.3,24.0,Yes,3.1,5.0
+S1138,Economics,3,12.8,5.4,9.0,No,3.09,5.8
+S1139,Humanities,3,10.1,7.3,41.0,No,3.4,6.5
+S1140,Engineering,1,11.9,7.6,36.0,Yes,2.86,6.5
+S1141,Engineering,4,25.8,5.9,29.0,Yes,4.3,4.2
+S1142,Business,4,19.1,6.1,7.0,Yes,3.25,6.5
+S1143,Humanities,3,18.5,6.7,28.0,Yes,3.96,8.2
+S1144,Social Science,3,16.0,6.5,42.0,Yes,3.26,6.4
+S1145,Humanities,1,15.2,7.3,60.0,No,,6.0
+S1146,Business,2,22.1,6.0,40.0,Yes,3.82,6.8
+S1147,Social Science,2,9.7,6.0,49.0,No,3.12,6.4
+S1148,Data Science,2,15.0,6.5,10.0,Yes,3.9,8.2
+S1149,Humanities,2,19.0,6.0,35.0,No,3.31,6.0
+S1150,Economics,1,9.8,7.0,45.0,No,2.88,6.1
+S1151,Engineering,4,21.0,6.9,110.0,No,3.41,4.0
+S1152,Economics,2,16.0,6.1,47.0,Yes,3.06,6.1
+S1153,Humanities,3,13.9,5.8,15.0,Yes,2.96,8.1
+S1154,Engineering,1,20.9,7.9,42.0,Yes,3.78,6.7
+S1155,Engineering,1,17.2,6.6,17.0,No,3.16,7.3
+S1156,Economics,2,11.6,7.5,44.0,No,3.05,5.7
+S1157,Social Science,4,30.6,5.6,26.0,No,4.0,6.4
+S1158,Business,1,21.4,5.5,4.0,Yes,4.05,6.2
+S1159,Engineering,1,19.6,7.2,101.0,no,3.46,5.1
+S1160,Data Science,3,23.2,4.9,19.0,No,3.19,8.8
+S1161,Humanities,2,13.3,7.0,13.0,Yes,3.7,6.8
+S1162,Engineering,4,23.4,5.9,45.0,No,3.78,4.8
+S1163,Humanities,3,8.0,6.6,36.0,Yes,2.92,4.9
+S1164,Economics,3,16.0,6.3,60.0,No,3.46,8.1
+S1165,Engineering,1,23.7,6.9,49.0,No,3.84,4.2
+S1166,Economics,4,27.7,6.0,81.0,Yes,4.27,5.9
+S1167,Humanities,3,5.3,5.2,40.0,Yes,3.11,7.8
+S1168,Data Science,2,23.4,6.0,29.0,Yes,3.86,8.2
+S1169,Data Science,3,19.0,5.4,27.0,Yes,3.87,6.7
+S1170,Economics,3,20.5,8.3,26.0,Yes,3.7,6.6
+S1171,Engineering,4,21.7,6.3,12.0,No,3.77,8.4
+S1172,Economics,4,17.3,5.5,42.0,No,3.93,6.8
+S1173,Engineering,2,17.9,8.1,30.0,No,3.0,7.4
+S1174,Social Science,3,16.6,5.9,48.0,No,4.13,6.0
+S1175,Data Science,1,15.9,6.6,38.0,No,3.33,5.8
+S1176,Data Science,3,25.4,5.7,26.0,No,3.87,7.0
+S1177,Economics,2,16.8,6.2,25.0,No,3.87,6.6
+S1178,Business,4,13.6,7.0,3.0,Yes,3.62,7.1
+S1179,economics,3,21.1,6.1,57.0,Yes,4.05,6.3
+S1180,Economics,1,6.3,7.5,52.0,Yes,2.3,5.9
+S1181,Engineering,3,21.7,6.0,15.0,Yes,3.24,7.8
+S1182,Engineering,3,20.1,,49.0,No,3.21,5.7
+S1183,Humanities,1,5.8,7.0,19.0,No,,6.6
+S1184,Engineering,2,22.1,7.7,7.0,Yes,3.53,5.9
+S1185,Economics,3,12.7,7.1,11.0,Yes,3.17,6.7
+S1186,Social Science,3,11.2,5.9,47.0,No,3.05,6.8
+S1187,Business,3,23.5,5.3,35.0,Yes,3.4,5.8
+S1188,Engineering,2,16.8,6.7,11.0,Yes,3.14,6.4
+S1189,Data Science,4,29.1,6.6,32.0,No,4.24,4.0
+S1190,Engineering,2,13.9,7.5,23.0,Yes,3.19,9.0
+S1191,Economics,2,17.1,7.6,24.0,No,3.28,7.9
+S1192,Social Science,1,10.8,6.9,29.0,No,3.45,5.9
+S1193,Social Science,4,22.7,6.4,13.0,Yes,3.61,6.1
+S1194,Engineering,4,18.7,6.2,42.0,Yes,3.34,5.5
+S1195,Social Science,3,13.7,7.2,10.0,No,3.14,7.3
+S1196,Economics,1,15.7,6.6,69.0,Yes,3.16,6.8
+S1197,Social Science,2,12.9,7.0,34.0,No,2.86,6.1
+S1198,Economics ,3,21.0,7.2,52.0,No,3.03,8.0
+S1199,Humanities,1,6.5,8.7,16.0,Yes,2.95,8.0
+S1200,Social Science,4,13.3,6.8,49.0,Yes,3.37,6.8
+S1201,Business,4,15.1,6.3,68.0,Yes,3.21,6.5
+S1202,Business,1,7.1,7.1,61.0,Yes,3.14,7.1
+S1203,Humanities,4,19.4,5.1,6.0,No,3.89,7.4
+S1204,Engineering,4,28.9,5.3,36.0,Yes,4.06,8.4
+S1205,Business,1,7.3,6.6,23.0,No,3.19,7.6
+S1206,Humanities,3,16.0,6.3,11.0,No,3.56,7.9
+S1207,Business,1,9.3,6.1,3.0,Yes,3.3,6.5
+S1208,Economics,1,12.6,6.8,40.0,Yes,3.3,8.9
+S1209,Data Science,4,32.2,6.2,7.0,No,4.12,6.1
+S1210,Humanities,4,24.1,5.4,30.0,No,3.49,5.5
+S1211,Social Science,4,12.2,6.2,47.0,No,3.98,7.8
+S1212,Social Science,1,11.0,7.5,31.0,No,3.34,7.5
+S1213,Social Science,4,21.0,6.1,21.0,No,4.01,5.4
+S1214,Social Science,4,21.1,5.3,40.0,Yes,3.35,5.6
+S1215,Business,3,20.2,6.6,22.0,No,3.63,6.7
+S1216,Business,4,25.0,6.8,20.0,Yes,4.09,8.0
+S1217,Economics,2,18.0,5.7,45.0,No,3.11,6.7
+S1218,Humanities,1,14.5,6.5,25.0,Yes,3.39,7.8
+S1219,Engineering,4,29.0,6.8,51.0,No,3.97,4.1
+S1220,Humanities,2,15.1,5.7,43.0,No,2.93,8.0
+S1221,Economics,4,24.1,6.0,68.0,No,3.96,5.5
+S1222,Business,2,10.7,6.8,33.0,Yes,2.88,8.5
+S1223,Social Science,4,23.6,7.4,15.0,No,3.93,6.5
+S1224,Engineering,1,21.4,6.7,38.0,No,3.64,6.0
+S1225,Data Science,2,11.3,6.3,89.0,Yes,3.6,7.6
+S1226,Engineering,2,17.3,6.7,68.0,Yes,3.94,
+S1227,Engineering,3,28.5,6.4,20.0,No,3.65,6.9
+S1228,ENGINEERING,4,28.7,5.8,34.0,No,4.13,4.2
+S1229,Economics,1,9.2,7.1,78.0,Yes,3.17,8.3
+S1230,Data Science,2,15.4,5.8,65.0,No,3.61,5.3
+S1231,Business,3,19.7,6.1,56.0,Yes,3.69,5.4
+S1232,Economics,2,20.6,7.6,31.0,No,3.79,7.4
+S1233,Engineering,4,25.9,6.3,33.0,Yes,3.92,
+S1234,Engineering,1,20.8,5.0,20.0,Yes,3.58,6.4
+S1235,Social Science,1,22.4,4.6,48.0,No,3.82,6.9
+S1236,Economics,1,7.6,7.7,15.0,No,3.17,7.9
+S1237,Engineering,2,17.0,5.7,27.0,No,3.55,5.8
+S1238,Social Science,2,16.6,6.8,15.0,No,3.54,8.1
+S1239,Data Science,3,26.0,6.8,19.0,Yes,3.21,7.5
+S1240,Economics,1,9.0,7.0,6.0,No,3.14,7.1
+S1241,Engineering,4,23.5,6.8,23.0,Yes,3.48,5.1
+S1242,Economics,2,9.0,6.9,33.0,Yes,2.96,6.9
+S1243,Economics,1,15.9,7.5,13.0,No,3.31,5.3
+S1244,Social Science,2,17.8,7.4,23.0,Yes,3.05,6.0
+S1245,Humanities,4,11.0,5.8,41.0,Yes,3.02,5.3
+S1246,Humanities,1,9.6,7.4,31.0,Yes,2.73,7.5
+S1247,Economics,1,16.5,6.4,9.0,Yes,3.17,6.5
+S1248,Engineering,3,18.8,5.3,33.0,No,4.01,5.3
+S1249,Engineering,2,13.4,7.7,69.0,No,3.14,9.2
+S1250,Business,4,21.8,5.9,42.0,No,3.0,4.9
+S1251,Business,3,14.8,5.6,39.0,Yes,3.22,7.0
+S1252,Data Science,1,11.2,7.6,8.0,No,,7.4
+S1253,Social Science,3,21.4,5.6,3.0,No,3.47,6.7
+S1254,Business,4,23.1,6.1,35.0,Yes,4.24,5.8
+S1255,Social Science,1,14.0,6.0,8.0,No,3.29,5.2
+S1256,Engineering,4,16.8,5.8,58.0,Yes,3.68,6.3
+S1257,Business,3,20.6,5.5,46.0,Yes,3.35,5.6
+S1258,Engineering,3,14.2,6.7,9.0,No,3.45,6.3
+S1259,Data Science,2,15.1,6.7,49.0,Yes,3.77,6.5
+S1260,Engineering,2,9.4,5.9,28.0,Yes,3.23,6.3
+S1261,Data Science,1,16.5,6.9,8.0,No,3.26,5.6
+S1262,Engineering,4,31.8,6.0,5.0,Yes,4.3,6.7
+S1263,Economics,4,18.8,6.5,3.0,Yes,3.7,8.2
+S1264,Business,2,8.5,7.8,45.0,No,3.35,5.6
+S1265,Economics,3,24.8,6.2,14.0,Yes,3.82,7.6
+S1266,Engineering,2,15.4,6.0,29.0,Yes,3.78,7.3
+S1267,Economics,3,19.7,6.1,52.0,Yes,3.15,4.5
+S1268,Social Science,2,19.9,,38.0,Yes,3.96,7.3
+S1269,Economics,3,22.5,6.7,28.0,Yes,3.54,7.9
+S1270,Data Science,1,21.4,7.0,24.0,Yes,4.18,9.0
+S1271,Business,1,6.1,6.6,56.0,No,3.55,
+S1272,Economics,1,4.9,7.2,42.0,Yes,2.61,8.0
+S1273,Social Science,2,6.3,6.9,48.0,No,2.79,6.8
+S1274,Economics,4,17.8,6.1,5.0,Yes,3.52,7.6
+S1275,Social Science,1,17.6,5.5,4.0,Yes,4.02,9.0
+S1276,Economics,4,13.1,5.7,33.0,No,4.01,5.9
+S1277,Social Science,4,14.7,7.0,26.0,Yes,3.32,6.7
+S1278,Humanities,2,16.6,7.0,52.0,No,3.3,5.1
+S1279,Engineering,4,22.4,7.0,10.0,No,3.95,7.3
+S1280,Data Science,1,15.3,6.9,81.0,No,3.97,6.0
+S1281,Humanities,4,23.0,5.8,47.0,Yes,3.1,6.4
+S1282,Business,1,13.5,7.3,53.0,No,3.15,6.1
+S1283,Engineering,1,19.0,6.6,9.0,No,4.3,6.4
+S1284,Business,2,23.8,6.1,76.0,yes,3.38,6.9
+S1285,Humanities,2,27.8,5.8,,No,3.5,7.3
+S1286,Economics,2,19.3,6.4,44.0,No,3.52,6.1
+S1287,Humanities,2,10.4,7.9,8.0,Yes,2.91,6.3
+S1288,Business,1,12.7,7.4,11.0,Yes,3.35,6.6
+S1289,Engineering,2,20.2,7.7,3.0,No,3.47,7.5
+S1290,Humanities,4,20.2,5.8,32.0,No,4.3,5.4
+S1291,Business,3,11.3,6.4,27.0,No,2.82,6.4
+S1292,Business,2,12.4,8.9,27.0,Yes,2.74,8.6
+S1293,Business,2,7.7,8.3,20.0,No,3.19,7.0
+S1294,Economics,4,10.6,6.1,21.0,Yes,3.4,6.4
+S1295,Engineering,2,19.5,6.3,22.0,No,3.46,5.8
+S1296,Engineering,3,19.5,5.7,10.0,Yes,3.75,7.8
+S1297,Business,3,22.5,7.2,28.0,No,3.72,8.1
+S1298,Business,1,9.1,7.4,56.0,Yes,3.33,7.3
+S1299,Social Science,4,19.8,6.4,21.0,No,3.76,4.0
+S1300,Social Science,2,13.9,5.8,70.0,Yes,3.04,6.3
+S1301,Data Science,2,16.3,7.2,12.0,No,3.47,7.0
+S1302,Economics,3,19.5,5.7,44.0,No,3.94,7.3
+S1303,Economics,1,23.8,6.9,5.0,No,3.84,7.6
+S1304,Economics,3,16.9,6.3,38.0,Yes,3.74,6.0
+S1305,Data Science,3,30.6,4.4,47.0,Yes,4.3,6.3
+S1306,Economics,1,17.6,7.1,19.0,Yes,3.69,7.6
+S1307,Engineering,1,7.7,7.2,119.0,No,3.2,5.4
+S1308,Engineering,1,16.9,5.6,87.0,Yes,3.3,8.3
+S1309,Economics,4,21.4,5.4,9.0,No,3.63,6.6
+S1310,Data Science,4,28.3,6.2,13.0,No,3.94,4.1
+S1311,Data Science,3,19.1,7.1,34.0,Yes,3.48,6.5
+S1312,Data Science,2,10.9,6.4,22.0,Yes,2.81,6.4
+S1313,Data Science,1,21.4,6.3,9.0,Yes,3.53,8.1
+S1314,Social Science,2,15.2,5.2,27.0,Yes,3.41,8.3
+S1315,Social Science,2,11.8,5.9,65.0,Yes ,3.16,6.1
+S1316,Business,1,13.0,7.5,54.0,Yes,3.15,7.4
+S1317,Social Science,2,16.0,6.4,18.0,No,3.59,7.4
+S1318,Social Science,4,17.5,6.9,31.0,Yes,3.76,6.6
+S1319,Data Science,3,19.3,,48.0,Yes,3.68,6.1
+S1320,social science,2,24.3,6.9,77.0,Yes,3.82,6.1
+S1321,Economics,3,20.3,7.4,49.0,Yes,3.58,8.6
+S1322,Business,1,9.8,8.0,73.0,No,3.0,7.1
+S1323,Data Science,3,13.4,5.9,52.0,Yes,3.42,6.4
+S1324,Data Science,1,18.7,6.6,34.0,Yes,3.81,7.0
+S1325,Humanities,3,18.0,6.6,55.0,No,3.47,5.0
+S1326,Social Science,2,12.8,6.5,9.0,Yes,3.62,6.4
+S1327,Engineering,2,25.5,5.6,8.0,No,3.95,9.9
+S1328,Engineering,2,16.9,6.6,17.0,Yes,3.45,5.9
+S1329,Business,2,17.7,6.8,46.0,No,3.26,6.3
+S1330,Engineering,1,22.0,7.8,39.0,No,,5.9
+S1331,Data Science,4,16.8,6.8,60.0,Yes,3.31,6.7
+S1332,Economics,4,13.5,6.6,41.0,Yes,3.44,8.4
+S1333,Humanities,1,6.7,7.1,39.0,Yes,3.17,6.0
+S1334,Social Science,1,12.1,5.5,64.0,No,3.44,5.8
+S1335,Engineering,4,27.1,5.0,27.0,Yes,4.06,6.4
+S1336,Humanities,2,7.0,6.4,63.0,Yes,3.36,7.0
+S1337,Engineering,3,21.3,7.2,20.0,Yes,3.46,6.8
+S1338,Humanities,2,11.2,5.7,51.0,Yes,3.62,8.6
+S1339,Social Science,3,16.4,6.3,16.0,Yes,3.21,6.8
+S1340,Economics,2,20.3,7.2,120.0,YES,3.37,6.2
+S1341,Humanities,1,5.7,6.3,32.0,Yes,,6.9
+S1342,Data Science,1,18.2,6.8,20.0,Yes,3.62,7.3
+S1343,Data Science,4,32.7,6.7,43.0,Yes,3.66,6.5
+S1344,Economics,4,24.5,6.5,68.0,No,3.98,
+S1345,Economics,2,20.6,7.7,52.0,Yes,3.53,7.8
+S1346,Social Science,1,12.4,,14.0,Yes,3.93,9.1
+S1347,Humanities,4,25.3,5.5,48.0,No,4.0,6.7
+S1348,Humanities,4,14.1,6.5,11.0,No,3.54,5.0
+S1349,Engineering,4,25.3,6.0,3.0,No,3.8,5.8
+S1350,Social Science,1,14.7,6.1,28.0,Yes,3.55,6.9
+S1351,Business,3,15.4,6.7,20.0,No,3.22,4.4
+S1352,Engineering,3,22.9,6.7,78.0,No,3.7,4.8
+S1353,Engineering,1,21.3,6.4,58.0,No,3.11,7.2
+S1354,Engineering,3,17.4,6.9,13.0,Yes,2.91,7.4
+S1355,Business,3,16.4,5.9,33.0,No,3.6,5.4
+S1356,Data Science,1,19.7,6.3,49.0,Yes,4.0,8.5
+S1357,Business,3,16.9,5.6,,Yes,3.03,6.0
+S1358,Business,3,21.2,5.9,98.0,Yes,3.57,5.6
+S1359,Economics,2,4.4,7.1,73.0,Yes,3.12,9.0
+S1360,Business,3,17.9,8.0,32.0,Yes,3.18,7.9
+S1361,Engineering,1,14.6,7.0,4.0,Yes,3.36,7.3
+S1362,Engineering,3,17.3,5.8,18.0,No,3.25,6.8
+S1363,Economics,1,13.1,6.9,3.0,Yes,2.89,7.1
+S1364,Humanities,2,4.5,7.1,71.0,Yes,3.17,6.9
+S1365,Business,1,11.9,8.6,5.0,No,3.38,8.4
+S1366,Engineering,2,10.7,6.9,12.0,No,3.0,7.9
+S1367,Business,2,11.7,6.8,27.0,Yes,3.27,6.2
+S1368,Engineering,4,22.7,5.5,26.0,No,3.58,7.3
+S1369,Economics,2,9.4,6.3,3.0,No,2.9,7.1
+S1370,Business,3,24.5,6.1,7.0,Yes,3.77,7.7
+S1371,Data Science,2,19.5,7.4,24.0,No,,6.3
+S1372,Social Science,2,15.8,6.8,9.0,No,4.11,6.4
+S1373,Engineering,1,22.1,6.9,36.0,No,3.58,6.7
+S1374,Business,1,13.3,6.6,105.0,Yes,3.61,8.0
+S1375,Business,1,10.1,6.9,29.0,Yes,2.98,6.4
+S1376,Humanities,2,11.4,7.1,15.0,No,3.17,6.8
+S1377,Business,1,10.8,5.3,19.0,Yes,2.53,7.4
+S1378,Engineering,2,27.4,5.5,14.0,Yes,3.79,6.7
+S1379,Data Science,2,24.0,6.8,27.0,Yes,3.3,5.8
+S1380,Data Science,4,19.7,6.4,19.0,No,3.8,6.4
+S1381,Engineering,4,17.5,5.4,19.0,Yes,3.31,9.2
+S1382,Engineering,4,20.4,7.7,40.0,No,3.64,6.9
+S1383,Social Science,3,24.7,5.9,33.0,No,3.62,6.6
+S1384,Business,1,15.8,6.9,26.0,Yes,3.1,6.4
+S1385,Data Science,1,15.7,5.9,9.0,Yes,2.88,9.0
+S1386,Social Science,4,17.9,7.5,11.0,Yes,3.38,5.5
+S1387,Business,4,27.5,6.5,36.0,Yes,3.62,5.6
+S1388,Business,4,25.6,5.2,25.0,No,3.99,4.4
+S1389,Business,4,13.5,7.3,4.0,No,3.23,6.2
+S1390,Business,3,14.7,6.6,30.0,Yes,2.7,7.1
+S1391,Humanities,1,7.6,8.1,24.0,No,2.94,4.7
+S1392,Data Science,3,13.1,6.5,49.0,No,2.97,7.3
+S1393,Business,4,9.4,8.2,28.0,No,3.12,6.2
+S1394,Economics,4,15.8,6.4,6.0,No,4.19,7.2
+S1395,Data Science,1,19.1,6.8,42.0,No,3.19,7.4
+S1396,Business,1,7.0,7.7,3.0,No,3.09,8.9
+S1397,Business,4,29.2,6.1,20.0,Yes,4.06,5.2
+S1398,Social Science,1,7.5,6.9,14.0,No,2.94,7.3
+S1399,Business,1,7.9,,20.0,No,3.16,5.8
+S1400,Business,2,12.3,7.0,29.0,Yes,3.43,6.1
+S1401,Humanities,2,9.4,6.6,71.0,No,2.9,4.9
+S1402,Economics,2,19.3,5.8,56.0,No,,5.3
+S1403,Engineering,2,18.1,6.9,14.0,No,3.8,4.7
+S1404,Humanities,4,15.9,6.5,22.0,Yes,3.21,9.8
+S1405,Social Science,3,24.9,6.3,27.0,No,3.64,4.1
+S1406,Economics,3,19.6,6.3,24.0,Yes,3.66,5.4
+S1407,Engineering,1,19.4,5.7,14.0,Yes,3.56,8.4
+S1408,Social Science,4,8.9,7.7,,Yes,2.23,6.3
+S1409,Data Science,1,14.5,6.4,18.0,No,3.73,6.1
+S1410,Engineering,2,15.9,6.8,25.0,Yes,3.42,9.0
+S1411,Engineering,3,19.3,6.2,58.0,Yes,3.23,4.8
+S1412,Data Science,4,23.8,6.4,14.0,Yes,4.1,7.2
+S1413,Social Science,1,11.9,7.0,11.0,Yes,3.56,7.7
+S1414,Economics,2,13.9,6.7,49.0,No,3.24,7.5
+S1415,Data Science,2,19.0,6.4,20.0,Yes,3.79,9.8
+S1416,Social Science,4,19.0,6.3,30.0,No,3.09,6.0
+S1417,Social Science,1,14.4,7.1,42.0,Yes,3.39,6.4
+S1418,Business,4,13.4,6.7,43.0,No,3.59,5.6
+S1419,Engineering,2,21.9,6.6,11.0,No,3.75,7.0
+S1420,Economics,3,12.3,7.0,52.0,No,2.12,5.8
+S1013,Engineering,4,21.9,6.1,21.0,No,3.28,6.9
+S1087,Economics,2,9.6,6.2,26.0,No,2.88,6.8
+S1174,Social Science,3,16.6,5.9,48.0,No,4.13,6.0
+S1255,Social Science,1,14.0,6.0,8.0,No,3.29,5.2
+S1400,Business,2,12.3,7.0,29.0,Yes,3.43,6.1
